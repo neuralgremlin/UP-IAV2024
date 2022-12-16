@@ -5,7 +5,7 @@ Pedro Ortiz Monasterio Martinez
 
 <!-- ------------------------ Detalles del curso ----------------------- -->
 
-### **🏁 Introducción**
+### **Introducción**
 
 <br/>
 
@@ -21,8 +21,6 @@ Pedro Ortiz Monasterio Martinez
 <!-- ------------------------------- Unidades ------------------------------ -->
 
 ### **Unidad X**
-
-<br/>
 Objetivo
 
 PRES
@@ -40,4 +38,4 @@ PRACTICA
 [GitHub]()  
 [LinkedIn]()  
 [Twitter]()  
-[Sitio Web]
+[Sitio Web]()
