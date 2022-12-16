@@ -1,6 +1,6 @@
 # Inteligencia Artificial para Videojuegos
 ### @UP Spring 2023
-Pedro Ortiz Monasterio
+Pedro Ortiz Monasterio Martinez
 
 
 <!-- ------------------------ Detalles del curso ----------------------- -->
@@ -40,3 +40,4 @@ PRACTICA
 [GitHub]()  
 [LinkedIn]()  
 [Twitter]()  
+[Sitio Web]
